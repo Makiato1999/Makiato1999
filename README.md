@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-**Makiato1999/Makiato1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Xiaoran Xie
 
 - 🔭 I’m currently studying Machine Learning and Data Mining
-- 🌱 I’m interested in Web development, Data Science and Software Engineering
+- 🌱 I’m interested in Web development, Data Science, Software Engineering and Artifical Intelligence
 <!--
 - 👯 I’m looking to collaborate on Web development
 - 🤔 I’m looking for help with ...
