@@ -1,7 +1,4 @@
-### Hi there 👋
-
-I am Xiaoran Xie
-
+### Hi there 👋 I am Xiaoran Xie
 - 🔭 I’m currently studying Machine Learning and Data Mining
 - 🌱 I’m interested in Web development, Data Science, Software Engineering and Artifical Intelligence
 <!--
