@@ -7,12 +7,12 @@
 I am Xiaoran Xie. I am from Nanjing, China and currently doing my Bachelor of CS from University of Manitoba. I love to do web development and open to learning new technologies.
 
 ## 💻 Projects
-* [ARS-Canadian Airline Reservation System(Android)](https://github.com/Makiato1999/ARS)
-* [ESN-Echo State Network(Machine Learning)](https://github.com/Makiato1999/ESN-echo-state-network)
-* [Flea Market(Web, backend)](https://github.com/Makiato1999/FleaMarket)
-* [Order Me Up(Web, frontend)](https://github.com/Makiato1999/COMP3020-Group24)
-* [Retrieving Wiki articles(Machine Learning)](https://github.com/Makiato1999/note-ML/blob/main/Foundations/Week4/Retrieving%20Wikipedia%20articles.ipynb)
-* [Song Recommender System(Machine Learning)](https://github.com/Makiato1999/note-ML/blob/main/Foundations/Week5/Song%20Recommender%20System.ipynb)
+* [ARS-Canadian Airline Reservation System (Android)](https://github.com/Makiato1999/ARS)
+* [ESN-Echo State Network (Machine Learning)](https://github.com/Makiato1999/ESN-echo-state-network)
+* [Flea Market (Web, backend)](https://github.com/Makiato1999/FleaMarket)
+* [Order Me Up (Web, frontend)](https://github.com/Makiato1999/COMP3020-Group24)
+* [Retrieving Wiki articles (Machine Learning)](https://github.com/Makiato1999/note-ML/blob/main/Foundations/Week4/Retrieving%20Wikipedia%20articles.ipynb)
+* [Song Recommender System (Machine Learning)](https://github.com/Makiato1999/note-ML/blob/main/Foundations/Week5/Song%20Recommender%20System.ipynb)
 
 ## ⚡ Technologies 
 - Frontend development using **HTML,CSS,Javascript,Bootstrap,jQuery**
