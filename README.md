@@ -1,11 +1,25 @@
-### Hi there 👋 I am Xiaoran Xie
-- 🔭 I’m currently studying Machine Learning, Data Mining, Data Science
-- 🌱 I’m interested in Web development
-<!--
-- 👯 I’m looking to collaborate on Web development
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Hello welcome</h2>
+
+<img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/xiaoran-xie-3a305720a/) 
+
+I am Xiaoran Xie. I am from Nanjing, China and currently doing my Bachelor of CS from University of Manitoba.I love to do web development and open to learning new technologies.
+
+## 💻 Projects
+* [ARS-Canadian Airline Reservation System(Android)](https://github.com/Makiato1999/ARS)
+* [ESN-Echo State Network(Machine Learning)](https://github.com/Makiato1999/ESN-echo-state-network)
+* [Flea Market(Web, backend)](https://github.com/Makiato1999/FleaMarket)
+* [Order Me Up(Web, frontend)](https://github.com/Makiato1999/COMP3020-Group24)
+* [Retrieving Wiki articles(Machine Learning)](https://github.com/Makiato1999/note-ML/blob/main/Foundations/Week4/Retrieving%20Wikipedia%20articles.ipynb)
+* [Song Recommender System(Machine Learning)](https://github.com/Makiato1999/note-ML/blob/main/Foundations/Week5/Song%20Recommender%20System.ipynb)
+
+## ⚡ Technologies 
+- Frontend development using **HTML,CSS,Javascript,Bootstrap,jQuery**
+- Backend development using **Python,Java,SQL,Django**
+- Machine Learning using **Python,NumPy,pandas,Matplotlib,turicreate,scikit-learn,Jupyter**
+- Android app development using **Android Studio**
+- Solving Data structure and algorithm questions in **Python,Java**
+
+![Shawn github stats](https://github-readme-stats.vercel.app/api?username=Makiato1999&hide=["issues"]&show_icons=true)
+
