@@ -7,7 +7,7 @@
 I am Xiaoran Xie. I am from Nanjing, China and currently doing my Bachelor of CS from University of Manitoba. I love to do web development and open to learning new technologies.
 
 ## 💻 Projects
-* [Text Mining: Sentiment Analysis and Recommender System on Yelp Reviews](https://github.com/Makiato1999/COMP4710_Yelp) (under developing)
+* [Text Mining: Sentiment Analysis and Recommender System on Yelp Reviews](https://github.com/Makiato1999/COMP4710_Yelp)
 * [ARS-Canadian Airline Reservation System (Android)](https://github.com/Makiato1999/ARS)
 * [ESN-Echo State Network (Machine Learning)](https://github.com/Makiato1999/ESN-echo-state-network)
 * [Flea Market (Web, backend)](https://github.com/Makiato1999/FleaMarket)
