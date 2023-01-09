@@ -8,10 +8,10 @@ I am Xiaoran Xie. I am from Nanjing, China and currently doing my Bachelor of CS
 
 ## 💻 Projects
 * [Text Mining: Sentiment Analysis and Recommender System on Yelp Reviews (Data Mining, Machine Learning)](https://github.com/Makiato1999/COMP4710_Yelp)
-* [ARS-Canadian Airline Reservation System (Android, Java)](https://github.com/Makiato1999/ARS)
-* [ESN-Echo State Network (Machine Learning, Python)](https://github.com/Makiato1999/ESN-echo-state-network)
-* [Flea Market (Backend, Python, Django)](https://github.com/Makiato1999/FleaMarket)
-* [Order Me Up-Online Restaurant Order System (Frontend, HTML, CSS, JavaScript)](https://github.com/Makiato1999/COMP3020-Group24)
+* [ARS-Canadian Airline Reservation System (Android)](https://github.com/Makiato1999/ARS)
+* [ESN-Echo State Network (Machine Learning)](https://github.com/Makiato1999/ESN-echo-state-network)
+* [Flea Market (Backend, Django)](https://github.com/Makiato1999/FleaMarket)
+* [Order Me Up-Online Restaurant Order System (Frontend)](https://github.com/Makiato1999/COMP3020-Group24)
 * [Retrieving Wiki articles (Machine Learning)](https://github.com/Makiato1999/note-ML/blob/main/Foundations/Week4/Retrieving%20Wikipedia%20articles.ipynb)
 * [Song Recommender System (Machine Learning)](https://github.com/Makiato1999/note-ML/blob/main/Foundations/Week5/Song%20Recommender%20System.ipynb)
 
