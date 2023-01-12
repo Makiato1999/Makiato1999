@@ -22,5 +22,5 @@ I am Xiaoran Xie. I am from Nanjing, China and currently doing my Bachelor of CS
 - Development tools using **Jupyter Lab,Visual Studio Code,IntelliJ,Android Studio,PyCharm,Vim**
 - Solving Data structure and algorithm questions in **Python,Java**
 
-![Shawn github stats](https://github-readme-stats.vercel.app/api?username=Makiato1999&hide=["issues"]&show_icons=true)
+![Shawn's github stats](https://github-readme-stats.vercel.app/api?username=Makiato1999&hide=["issues"]&show_icons=true)
 
