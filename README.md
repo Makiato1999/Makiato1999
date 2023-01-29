@@ -16,6 +16,7 @@ I am Xiaoran Xie. I am from Nanjing, China and currently doing my Bachelor of CS
 * [Order Me Up-Online Restaurant Order System (Frontend)](https://github.com/Makiato1999/COMP3020-Group24)
 * [Retrieving Wiki articles (Machine Learning)](https://github.com/Makiato1999/note-ML/blob/main/Foundations/Week4/Retrieving%20Wikipedia%20articles.ipynb)
 * [Song Recommender System (Machine Learning)](https://github.com/Makiato1999/note-ML/blob/main/Foundations/Week5/Song%20Recommender%20System.ipynb)
+* [Huffman-DataCompression](https://github.com/Makiato1999/Huffman-DataCompression)
 
 ## ⚡ Technologies 
 - Frontend development using **HTML,CSS,Javascript,Bootstrap,jQuery**
