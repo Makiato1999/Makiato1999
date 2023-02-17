@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/xiaoran-xie-3a305720a/) 
 
-I am Xiaoran Xie. I am from Nanjing, China and currently doing my Bachelor of CS from University of Manitoba. I love to do software development and open to learning new technologies. 
+I am Xiaoran Xie. I am from Nanjing, China, and I obtained my Bachelor of Science in Computer Science from the University of Manitoba from 2019 to 2023. I enjoy doing software development and I am also eager to learn new technologies. I am interested in machine learning, deep learning, and data mining.
 
 ## 💻 Projects
 * [Text Mining: Sentiment Analysis and Recommender System on Yelp Reviews (Data Mining, Machine Learning)](https://github.com/Makiato1999/COMP4710_Yelp)
