@@ -3,9 +3,6 @@
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/xiaoran-xie-3a305720a/) 
-<a href="https://github.com/Makiato1999" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=makiato1999&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-</a>
 <br>
 I am Xiaoran Xie, from Nanjing, China. I studied at the University of Manitoba from 2019 to 2023 and obtained a Bachelor's degree in Computer Science. I enjoy doing software development and I am also eager to learn new technologies. I am interested in machine learning, deep learning, and data mining.
 <br>
@@ -31,4 +28,7 @@ I am Xiaoran Xie, from Nanjing, China. I studied at the University of Manitoba f
 - Solving Data structure and algorithm questions in **Python,Java**
 
 ![Shawn's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Makiato1999&hide=["issues"]&show_icons=true)
+<a href="https://github.com/Makiato1999" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=makiato1999&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+</a>
 
