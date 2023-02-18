@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/xiaoran-xie-3a305720a/) 
 <br>
-I am Xiaoran Xie, from Nanjing, China. I studied at the University of Manitoba from 2019 to 2023 and obtained a Bachelor's degree in Computer Science. I enjoy doing software development and I am also eager to learn new technologies. I am interested in machine learning, deep learning, and data mining.
+I am Xiaoran Xie, from Nanjing, China. I studied at the University of Manitoba from 2019 to 2023 and obtained a Bachelor's degree in Computer Science. I enjoy doing software development and I am also eager to learn new technologies. I am interested in Web Development, Machine Learning, Deep Learning, and Data Mining.
 <br>
 故不積跬步，無以至千裡﹔不積小流，無以成江海。
 
