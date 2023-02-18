@@ -29,8 +29,3 @@ I am Xiaoran Xie, from Nanjing, China. I studied at the University of Manitoba f
 
 ![Shawn's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Makiato1999&hide=["issues"]&show_icons=true)
 
-<br>
-<a href="https://github.com/Makiato1999" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=makiato1999&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-</a>
-
