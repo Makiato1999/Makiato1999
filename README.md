@@ -6,7 +6,7 @@
 <br>
 I am Xiaoran Xie, from Nanjing, China. I studied at the University of Manitoba from 2019 to 2023 and obtained a Bachelor's degree in Computer Science. I enjoy doing software development and I am also eager to learn new technologies. I am interested in machine learning, deep learning, and data mining.
 <br>
-不积跬步，无以至千里。不积小流，无以成江海。
+故不積跬步，無以至千裡﹔不積小流，無以成江海。
 
 ## 💻 Projects
 * [Text Mining: Sentiment Analysis and Recommender System on Yelp Reviews (Data Mining, Machine Learning)](https://github.com/Makiato1999/COMP4710_Yelp)
