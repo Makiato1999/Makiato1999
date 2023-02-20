@@ -6,7 +6,6 @@
 <br>
 I am Xiaoran Xie, from Nanjing, China. I studied at the University of Manitoba from 2019 to 2023 and obtained a Bachelor's degree in Computer Science. I enjoy doing software development and I am also eager to learn new technologies. I am interested in Web Development, Machine Learning, Deep Learning, and Data Mining.
 <br>
-故不積跬步，無以至千裡﹔不積小流，無以成江海。<br>
 I am currently working on course: [The Complete 2023 Web Development Bootcamp](https://github.com/Makiato1999/note-2023Web-Bootcamp)
 
 ## 💻 Projects
