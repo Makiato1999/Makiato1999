@@ -23,7 +23,7 @@ I am currently working on course: [The Complete 2023 Web Development Bootcamp](h
 
 ## ⚡ Technologies 
 - Frontend development using **HTML,CSS,Javascript,Bootstrap,jQuery**
-- Backend development using **Python,Java,SQL,Django**
+- Backend development using **Node.js,Express.js,Python,Java,SQL,Django**
 - Machine Learning using **Python,NumPy,pandas,turicreate,scikit-learn,NLTK,seaborn,Matplotlib**
 - Development tools using **Jupyter Lab,Visual Studio Code,IntelliJ,Android Studio,PyCharm,Vim**
 - Solving Data structure and algorithm questions in **Python,Java**
