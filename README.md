@@ -22,11 +22,11 @@ I am currently working on course: [The Complete 2023 Web Development Bootcamp](h
 * [Huffman-DataCompression (Object Orientation)](https://github.com/Makiato1999/Huffman-DataCompression)
 
 ## ⚡ Technologies 
-- Frontend development using **HTML,CSS,Javascript,Bootstrap,jQuery**
-- Backend development using **Node.js,Express.js,Python,Java,SQL,Django**
+- Frontend development using **HTML,CSS,Javascript,Bootstrap,jQuery,EJS**
+- Backend development using **Node.js,Express.js,MongoDB,Python,Django,Java**
 - Machine Learning using **Python,NumPy,pandas,turicreate,scikit-learn,NLTK,seaborn,Matplotlib**
-- Development tools using **Jupyter Lab,Visual Studio Code,IntelliJ,Android Studio,PyCharm,Vim**
-- Solving Data structure and algorithm questions in **Python,Java**
+- Development tools using **Visual Studio Code,Jupyter Lab,IntelliJ,Android Studio,PyCharm,Vim**
+- Solving Data structure and algorithm questions in **Java,Python**
 
 ![Shawn's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Makiato1999&hide=["issues"]&show_icons=true)
 
