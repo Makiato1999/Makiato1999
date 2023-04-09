@@ -25,7 +25,7 @@ I am currently working on course:
 
 ## ⚡ Technologies 
 - Frontend development using **HTML,CSS,Javascript,Bootstrap,jQuery,EJS**
-- Backend development using **Node.js,Express.js,MongoDB,Python,Django,Java**
+- Backend development using **Node.js,Express.js,MongoDB,Mongoose.js,Python,Django,Java**
 - Machine Learning using **Python,NumPy,pandas,turicreate,scikit-learn,NLTK,seaborn,Matplotlib**
 - Development tools using **Visual Studio Code,Jupyter Lab,IntelliJ,Android Studio,PyCharm,Vim**
 - Solving Data structure and algorithm questions in **Java,Python**
