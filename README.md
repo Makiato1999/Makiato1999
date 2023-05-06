@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/xiaoran-xie-3a305720a/) 
 <br>
-I am Xiaoran Xie, from Nanjing, China. I studied at the University of Manitoba from 2019 to 2023 and obtained a Bachelor's degree in Computer Science. I enjoy doing software development and I am also eager to learn new technologies. I am familiar with Web Development, and interested in Machine Learning, Deep Learning.
+Hello, I'm Shawn from Nanjing, China. I have a strong passion for software development and thrive in collaborative team environments. I am also interested in workflow optimization, DevOps practices, and project management. My expertise lies in backend development, where I have gained proficiency in popular technologies and frameworks like Spring for Java, Express for Node.js, and Django for Python. Currently, I am actively seeking a junior Software Engineer position in the Great Toronto Area. I would be delighted to connect with any potential opportunities in the region. Please feel free to reach out to me.
 <br>
 
 I am currently in a summer internship in China, Nanjing and working on course:
