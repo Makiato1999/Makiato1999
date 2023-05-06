@@ -7,7 +7,7 @@
 Hello, I'm Shawn from Nanjing, China. I have a strong passion for software development and thrive in collaborative team environments. I am also interested in workflow optimization, DevOps practices, and project management. My expertise lies in backend development, where I have gained proficiency in popular technologies and frameworks like Spring for Java, Express for Node.js, and Django for Python. Currently, I am actively seeking a junior Software Engineer position in the Great Toronto Area. I would be delighted to connect with any potential opportunities in the region. Please feel free to reach out to me.
 <br>
 
-I am currently in a summer internship in China, Nanjing and working on course:
+I am currently in a summer internship in China and also working on course:
 - [The Complete 2023 Web Development Bootcamp](https://github.com/Makiato1999/note-2023Web-Bootcamp)
 
 ## 💻 Projects
