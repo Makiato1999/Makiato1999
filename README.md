@@ -7,10 +7,11 @@
 I am Xiaoran Xie, from Nanjing, China. I studied at the University of Manitoba from 2019 to 2023 and obtained a Bachelor's degree in Computer Science. I enjoy doing software development and I am also eager to learn new technologies. I am familiar with Web Development, and interested in Machine Learning, Deep Learning.
 <br>
 
-I am currently in a summer internship in China, Nanjing and working on courses:
+I am currently in a summer internship in China, Nanjing and working on course:
 - [The Complete 2023 Web Development Bootcamp](https://github.com/Makiato1999/note-2023Web-Bootcamp)
 
 ## 💻 Projects
+* [To-do List Warehouse](https://github.com/Makiato1999/Todo-List-Warehouse)
 * [Text Mining: Sentiment Analysis and Recommender System on Yelp Reviews (Data Mining, Machine Learning)](https://github.com/Makiato1999/COMP4710_Yelp)
 * [ARS-Canadian Airline Reservation System (Android)](https://github.com/Makiato1999/ARS)
 * [ESN-Echo State Network (Machine Learning)](https://github.com/Makiato1999/ESN-echo-state-network)
@@ -24,7 +25,7 @@ I am currently in a summer internship in China, Nanjing and working on courses:
 
 ## ⚡ Technologies 
 - Frontend development using **HTML,CSS,Javascript,Bootstrap,jQuery,EJS**
-- Backend development using **Node.js,Express.js,MongoDB,Mongoose.js,Python,Django,Java**
+- Backend development using **Node.js,Express.js,MongoDB,Mongoose.js,Java,SpringBoot,MySQL,DBeaver,Python,Django**
 - Machine Learning using **Python,NumPy,pandas,turicreate,scikit-learn,NLTK,seaborn,Matplotlib**
 - Development tools using **Visual Studio Code,Jupyter Lab,IntelliJ,Android Studio,PyCharm,Vim**
 - Solving Data structure and algorithm questions in **Java,Python**
