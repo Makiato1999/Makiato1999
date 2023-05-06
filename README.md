@@ -7,12 +7,8 @@
 I am Xiaoran Xie, from Nanjing, China. I studied at the University of Manitoba from 2019 to 2023 and obtained a Bachelor's degree in Computer Science. I enjoy doing software development and I am also eager to learn new technologies. I am familiar with Web Development, and interested in Machine Learning, Deep Learning.
 <br>
 
-I am currently working on the project:
-- [To-do List Warehouse](https://github.com/Makiato1999/Todo-List-Warehouse)
-
-and courses:
+I am currently in a summer internship in China, Nanjing and working on courses:
 - [The Complete 2023 Web Development Bootcamp](https://github.com/Makiato1999/note-2023Web-Bootcamp)
-- [Dive into Deep Learning](https://github.com/Makiato1999/DeepLearning-Camp-Notes)
 
 ## 💻 Projects
 * [Text Mining: Sentiment Analysis and Recommender System on Yelp Reviews (Data Mining, Machine Learning)](https://github.com/Makiato1999/COMP4710_Yelp)
