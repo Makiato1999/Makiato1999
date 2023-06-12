@@ -7,8 +7,9 @@
 Hello, I'm Shawn from Nanjing, China. I have a strong passion for software development and thrive in collaborative team environments. My expertise lies in backend development, where I have gained proficiency in popular technologies and frameworks like Spring for Java, Express for Node.js, and Django for Python. Currently, I am actively seeking a Software Engineer co-op position for 2024 Summer in the Greater Toronto Area. I would be delighted to connect with any potential opportunities in the region. Please feel free to reach out to me.
 <br>
 
-I am currently in a summer internship in China and also working on course:
+I am currently in a summer internship in China and also working on:
 - [The Complete 2023 Web Development Bootcamp](https://github.com/Makiato1999/note-2023Web-Bootcamp)
+- [LeetCode](https://github.com/Makiato1999/LeetCode)
 
 ## 💻 Projects
 * [To-do List Warehouse](https://github.com/Makiato1999/Todo-List-Warehouse)
