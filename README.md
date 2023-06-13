@@ -12,7 +12,7 @@ I am currently in a summer internship in China and also working on:
 - [LeetCode](https://github.com/Makiato1999/LeetCode)
 
 ## 💻 Projects
-* [To-do List Warehouse](https://github.com/Makiato1999/Todo-List-Warehouse)
+* [To-do List Warehouse (Bootstrap, EJS, Node.js, MongoDB, Heroku)](https://github.com/Makiato1999/Todo-List-Warehouse) 
 * [Text Mining: Sentiment Analysis and Recommender System on Yelp Reviews (Data Mining, Machine Learning)](https://github.com/Makiato1999/COMP4710_Yelp)
 * [ARS-Canadian Airline Reservation System (Android)](https://github.com/Makiato1999/ARS)
 * [ESN-Echo State Network (Machine Learning)](https://github.com/Makiato1999/ESN-echo-state-network)
