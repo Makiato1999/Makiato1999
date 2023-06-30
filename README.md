@@ -26,7 +26,7 @@ I am currently in a summer internship in China and also working on:
 * [Huffman-DataCompression (Object Orientation)](https://github.com/Makiato1999/Huffman-DataCompression)
 
 ## ⚡ Technologies 
-- Frontend development using **HTML,CSS,Javascript,Bootstrap,jQuery,EJS**
+- Frontend development using **HTML,CSS,Javascript,Bootstrap,jQuery,EJS,React,Material UI**
 - Backend development using **Node.js,Express.js,MongoDB,Mongoose.js,Java,SpringBoot,MySQL,DBeaver,Python,Django**
 - Machine Learning using **Python,NumPy,pandas,turicreate,scikit-learn,NLTK,seaborn,Matplotlib**
 - Development tools using **Visual Studio Code,Jupyter Lab,IntelliJ,Android Studio,PyCharm,Vim**
