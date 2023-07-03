@@ -4,12 +4,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/xiaoran-xie-3a305720a/) 
 <br>
-Hello, I'm Shawn from Nanjing, China. I have a strong passion for software development and thrive in collaborative team environments. My expertise lies in web development. Currently, I am actively seeking a Software Engineer co-op position for 2024 Fall in the Greater Toronto Area. I would be delighted to connect with any potential opportunities in the region. Please feel free to reach out to me.
+Hello, I'm Shawn from Nanjing, China. I have a strong passion for software development and thrive in collaborative team environments. My expertise lies in web development. Currently, I am actively seeking a Software Engineer co-op position for 2024 Summer in the Greater Toronto Area. I would be delighted to connect with any potential opportunities in the region. Please feel free to reach out to me.
 <br>
 
 I am currently in a summer internship in China and also working on:
 - [MERN full stack project](https://github.com/Makiato1999/Gallery)
-- [The Complete 2023 Web Development Bootcamp](https://github.com/Makiato1999/note-2023Web-Bootcamp)
 - [LeetCode](https://github.com/Makiato1999/LeetCode)
 
 ## 💻 Projects
