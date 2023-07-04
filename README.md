@@ -20,9 +20,6 @@ I am currently in a summer internship in China and also working on:
 * [MLFQ-CPU-Scheduling (Operating Systems, CPU Scheduling)](https://github.com/Makiato1999/MLFQ-CPU-Scheduling)
 * [Flea Market (Backend, Django)](https://github.com/Makiato1999/FleaMarket)
 * [Order Me Up-Online Restaurant Order System (Frontend)](https://github.com/Makiato1999/COMP3020-Group24)
-* [Retrieving Wiki articles (Machine Learning)](https://github.com/Makiato1999/note-ML/blob/main/Foundations/Week4/Retrieving%20Wikipedia%20articles.ipynb)
-* [Song Recommender System (Machine Learning)](https://github.com/Makiato1999/note-ML/blob/main/Foundations/Week5/Song%20Recommender%20System.ipynb)
-* [Huffman-DataCompression (Object Orientation)](https://github.com/Makiato1999/Huffman-DataCompression)
 
 ## ⚡ Technologies 
 - Frontend development using **HTML,CSS,Javascript,Bootstrap,jQuery,EJS,React,Material UI**
