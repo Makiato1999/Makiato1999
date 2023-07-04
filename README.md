@@ -8,7 +8,7 @@ Hello, I'm Shawn from Nanjing, China. I have a strong passion for software devel
 <br>
 
 I am currently in a summer internship in China and also working on:
-- [MERN full stack project](https://github.com/Makiato1999/Gallery)
+- [MERN Stack Front To Back: Full Stack React, Redux & Node.js]()
 - [LeetCode](https://github.com/Makiato1999/LeetCode)
 
 ## 💻 Projects
