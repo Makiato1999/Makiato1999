@@ -8,7 +8,7 @@ Hello, I'm Shawn from Nanjing, China. I have a strong passion for software devel
 <br>
 
 I am currently in a summer internship in China and also working on:
-- [MERN Stack Front To Back: Full Stack React, Redux & Node.js]()
+- [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://github.com/Makiato1999/MERN-Notes)
 - [LeetCode](https://github.com/Makiato1999/LeetCode)
 
 ## 💻 Projects
@@ -27,6 +27,11 @@ I am currently in a summer internship in China and also working on:
 - Machine Learning using **Python,NumPy,pandas,turicreate,scikit-learn,NLTK,seaborn,Matplotlib**
 - Development tools using **Visual Studio Code,Jupyter Lab,IntelliJ,Android Studio,PyCharm,Vim**
 - Solving Data structure and algorithm questions in **Java,Python**
+
+## Notes
+- [Udemy Course: MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://github.com/Makiato1999/MERN-Notes)
+- [Udemy Course: The Complete 2023 Web Development Bootcamp](https://github.com/Makiato1999/2023Web-Bootcamp-Notes)
+- [Coursera Course: Django for Everybody Specialization](https://github.com/Makiato1999/Backend-Django-Notes)
 
 ![Shawn's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Makiato1999&hide=["issues"]&show_icons=true)
 
