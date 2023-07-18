@@ -6,7 +6,7 @@ Hello, I'm Shawn from Nanjing, China. I have a strong passion for software devel
 
 I am currently in a summer internship in China and also working on:
 - Udemy Course: [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://github.com/Makiato1999/MERN-Notes)
-- Computer Graphics Courese provied by CMU: [CMU 15-462/662](http://15462.courses.cs.cmu.edu/fall2021/)
+- Computer Graphics course provided by CMU: [CMU 15-462/662](http://15462.courses.cs.cmu.edu/fall2021/)
 - [LeetCode](https://github.com/Makiato1999/LeetCode)
 
 ## 💻 Projects
