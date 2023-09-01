@@ -4,7 +4,7 @@
 Hello, I'm Shawn from Nanjing, China. I have a strong passion for Software Engineering, AI & Machine Learning, and Human-Robot Interation(HCI/HRI). Currently, I am in my MEng program in McMaster University. I am also seeking a Software Engineer / Machine Learning Engineer co-op position for 2024 Summer in the Greater Toronto Area. I would be delighted to connect with any potential opportunities in the region. Please feel free to reach out to me.
 <br>
 
-I am currently in a summer internship in China and also working on:
+I am also working on:
 - Coursera Course: [Machine Learning Specialization](https://github.com/Makiato1999/Washington-MachineLearning-Notes)
 - Udemy Course: [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://github.com/Makiato1999/MERN-Notes)
 - [LeetCode](https://github.com/Makiato1999/LeetCode)
