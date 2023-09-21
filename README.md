@@ -1,7 +1,7 @@
 <h2> Welcome</h2>
 
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
-Hello, I'm Shawn from Nanjing, China. I have a strong passion for Software Engineering, AI & Machine Learning, and Human-Robot Interation(HCI/HRI). Currently, I am in my MEng program in McMaster University. I am also seeking a Software Engineer / Machine Learning Engineer co-op position for 2024 Summer in the Greater Toronto Area. I would be delighted to connect with any potential opportunities in the region. Please feel free to reach out to me.
+Hello, I'm Shawn from Nanjing, China. I have a strong passion for Software Engineering, Data Science & Machine Learning, and Human-Computer Interation(HCI/HRI). Currently, I am in my MEng program in McMaster University. I am also seeking a Software Engineer / Machine Learning Engineer co-op position for 2024 Summer in the Greater Toronto Area. I would be delighted to connect with any potential opportunities in the region. Please feel free to reach out to me.
 <br>
 
 I am also working on:
