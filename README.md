@@ -9,7 +9,7 @@ I am also working on:
 - [LeetCode](https://github.com/Makiato1999/LeetCode)
 
 ## 💻 Projects
-* [MacRun](https://github.com/Makiato1999/MacRun) (Microservice arch, Java, SpringBoot, RabbitMQ, Maven, Eureka, Spring Gateway, Docker)
+* [MacRun-workout and heartrate tracking app](https://github.com/Makiato1999/MacRun) (Microservice arch, Java, SpringBoot, RabbitMQ, Maven, Eureka, Spring Gateway, Docker)
 * [To-do List Warehouse](https://github.com/Makiato1999/Todo-List-Warehouse) (Bootstrap, EJS, Node.js, MongoDB, Heroku) 
 * [Text Mining: Sentiment Analysis and Recommender System on Yelp Reviews](https://github.com/Makiato1999/COMP4710_Yelp) (Data Mining, Machine Learning)
 * [ARS-Canadian Airline Reservation System](https://github.com/Makiato1999/ARS) (Android, Agile Dev)
