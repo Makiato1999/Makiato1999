@@ -21,10 +21,17 @@ I am also working on:
 * [Order Me Up-Online Restaurant Order System](https://github.com/Makiato1999/COMP3020-Group24) (Frontend, HCI)
 
 ## ⚡ Technologies 
-- Front-end: **HTML,CSS,Javascript,Bootstrap,jQuery,EJS,React,Material UI**
-- Back-end: **Java,SpringMVC,SpringBoot,SpringCloud,Node.js,Express.js,MongoDB,Mongoose.js,MySQL,DBeaver,Python,Django**
+- Programming Markup Languages: **Java,Python,C,JavaScript,NodeJS,HTML,CSS,R**
+- [![My Skills](https://skillicons.dev/icons?i=java,py,c,js,nodejs,html,css,r)](https://skillicons.dev)
+- Libraries/Frameworks: **SpringMVC,SpringBoot,SpringCloud,RabbitMQ,Express.js,Django,jQuery,Bootstrap,React**
+- [![My Skills](https://skillicons.dev/icons?i=spring,rabbitmq,nodejs,express,django,jquery,bootstrap,react)](https://skillicons.dev)
+- Query Languages & Databases: **MySQL,MongoDB,ElasticSearch**
+- [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,elasticsearch)](https://skillicons.dev)
+- DevOps: **Maven,Docker,AWS,Heroku,Git,Testing,Logstash,Kibana**
+- [![My Skills](https://skillicons.dev/icons?i=maven,docker,aws,heroku,git)](https://skillicons.dev)
 - Machine Learning: **Python,NumPy,pandas,turicreate,scikit-learn,NLTK,seaborn,Matplotlib**
-- Development tools: **Visual Studio Code,Jupyter Lab,IntelliJ,Android Studio,PyCharm,Vim**
+- Development tools: **IntelliJ IDEA,Visual Studio Code,Jupyter Lab,Android Studio,PyCharm,Vim**
+- [![My Skills](https://skillicons.dev/icons?i=idea,vscode,androidstudio,vim)](https://skillicons.dev)
 - Solving Leetcode: **Java**
 
 ## :books: Notes
