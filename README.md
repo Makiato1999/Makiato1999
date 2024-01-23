@@ -22,7 +22,7 @@ I am also working on:
 
 ## ⚡ Technologies 
 - Front-end: **HTML,CSS,Javascript,Bootstrap,jQuery,EJS,React,Material UI**
-- Back-end: **Node.js,Express.js,MongoDB,Mongoose.js,Java,SpringBoot,MySQL,DBeaver,Python,Django**
+- Back-end: **Java,SpringMVC,SpringBoot,SpringCloud,Node.js,Express.js,MongoDB,Mongoose.js,MySQL,DBeaver,Python,Django**
 - Machine Learning: **Python,NumPy,pandas,turicreate,scikit-learn,NLTK,seaborn,Matplotlib**
 - Development tools: **Visual Studio Code,Jupyter Lab,IntelliJ,Android Studio,PyCharm,Vim**
 - Solving Leetcode: **Java**
