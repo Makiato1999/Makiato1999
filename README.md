@@ -1,4 +1,4 @@
-<h2> Welcome</h2>
+<h2> 🤖 Welcome</h2>
 
 Hello, I'm Shawn from Nanjing, China. I have a strong passion for Software Engineering, Data Science & Machine Learning, and Human-Computer Interation(HCI/HRI). Currently, I am in my MEng program in McMaster University. I am also seeking a Software Engineer co-op position for 2024 Summer in the Greater Toronto Area. I would be delighted to connect with any potential opportunities in the region. Please feel free to reach out to me.
 <br>
