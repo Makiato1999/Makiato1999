@@ -3,7 +3,7 @@
 Hello, I'm Shawn from Nanjing, China. I have a strong passion for Software Engineering, Data Science & Machine Learning, and Human-Computer Interation(HCI/HRI). Currently, I am in my MEng program in McMaster University. I am also seeking a Software Engineer co-op position for 2024 Summer in the Greater Toronto Area. I would be delighted to connect with any potential opportunities in the region. Please feel free to reach out to me.
 
 ## 💻 Projects
-* [MacRun-workout and heartrate tracking app](https://github.com/Makiato1999/MacRun-MicroService) (Microservice arch, Java, SpringBoot, RabbitMQ, Maven, Eureka, Spring Gateway, Docker)
+* [MacRun-workout and heartrate tracking app](https://github.com/Makiato1999/MacRun-MicroService) (Microservice, Java, SpringBoot, RabbitMQ, Maven, Eureka, Spring Gateway, Docker)
 * [Predicting the Risk of Stroke](https://github.com/Makiato1999/StrokePredict-DataScience) (Data Science, Data Analysis, Machine Learning, Classification)
 * [To-do List Warehouse](https://github.com/Makiato1999/Todo-List-Warehouse) (Bootstrap, EJS, Node.js, MongoDB, Heroku) 
 * [Text Mining: Sentiment Analysis and Recommender System on Yelp Reviews](https://github.com/Makiato1999/COMP4710_Yelp) (Data Mining, Machine Learning)
