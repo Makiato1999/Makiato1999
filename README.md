@@ -3,9 +3,10 @@
 Hello, I'm Shawn from Nanjing, China. I have a strong passion for Software Engineering, Data Science & Machine Learning, and Human-Computer Interation(HCI/HRI). Currently, I am in my MEng program in McMaster University. I am also seeking a Software Engineer co-op position for 2024 Summer in the Greater Toronto Area. I would be delighted to connect with any potential opportunities in the region. Please feel free to reach out to me.
 
 ## 💻 Projects
-* [MacRun-workout and heartrate tracking app](https://github.com/Makiato1999/MacRun-MicroService) (Microservice, Java, SpringBoot, RabbitMQ, Maven, Eureka, Spring Gateway, Docker)
-* [Predicting the Risk of Stroke](https://github.com/Makiato1999/StrokePredict-DataScience) (Data Science, Data Analysis, Machine Learning, Classification)
-* [To-do List Warehouse](https://github.com/Makiato1999/Todo-List-Warehouse) (Bootstrap, EJS, Node.js, MongoDB, Heroku) 
+* [Online Education Website](https://github.com/Makiato1999/Spring-Notes) (SpringBoot, MVC, SpringJPA, Hibernate, MySQL, Thymeleaf)
+* [Workout App on Campus](https://github.com/Makiato1999/MacRun-MicroService) (Microservice, SpringBoot, RabbitMQ, Maven, Eureka, SpringCloud Gateway, Docker)
+* [The Risk of Stroke Predictor](https://github.com/Makiato1999/StrokePredict-DataScience) (Data Science, Data Analysis, Machine Learning, Classification)
+* [Personal Todo List App](https://github.com/Makiato1999/Todo-List-Warehouse) (Bootstrap, EJS, Node.js, MongoDB, Heroku) 
 * [Text Mining: Sentiment Analysis and Recommender System on Yelp Reviews](https://github.com/Makiato1999/COMP4710_Yelp) (Data Mining, Machine Learning)
 * [ARS-Canadian Airline Reservation System](https://github.com/Makiato1999/ARS) (Android, Agile Dev)
 * [ESN-Echo State Network](https://github.com/Makiato1999/ESN-echo-state-network) (Machine Learning)
