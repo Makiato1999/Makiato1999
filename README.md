@@ -6,14 +6,14 @@ Hello, I'm Shawn from Nanjing, China. I have a strong passion for Software Engin
 * [Online Education Website](https://github.com/Makiato1999/Spring-Notes) (SpringBoot, MVC, SpringJPA, Hibernate, MySQL, Thymeleaf)
 * [Workout App on Campus](https://github.com/Makiato1999/MacRun-MicroService) (Microservice, SpringBoot, RabbitMQ, Maven, Eureka, SpringCloud Gateway, Docker)
 * [The Risk of Stroke Predictor](https://github.com/Makiato1999/StrokePredict-DataScience) (Data Science, Data Analysis, Machine Learning, Classification)
-* [Personal Todo List App](https://github.com/Makiato1999/Todo-List-Warehouse) (Bootstrap, EJS, Node.js, MongoDB, Heroku) 
-* [Text Mining: Sentiment Analysis and Recommender System on Yelp Reviews](https://github.com/Makiato1999/COMP4710_Yelp) (Data Mining, Machine Learning)
+* [Personal Todo List App](https://github.com/Makiato1999/Todo-List-Warehouse) (Bootstrap, EJS, Node.js, Express.js, MongoDB, Mongoose, Heroku) 
+* [Text Mining: Sentiment Analysis and Recommender System on Yelp Reviews](https://github.com/Makiato1999/COMP4710_Yelp) (Data Mining, Machine Learning, NLP)
 * [ARS-Canadian Airline Reservation System](https://github.com/Makiato1999/ARS) (Android, Agile Dev)
 * [ESN-Echo State Network](https://github.com/Makiato1999/ESN-echo-state-network) (Machine Learning)
 * [exFAT-reader](https://github.com/Makiato1999/exFAT-reader) (Operating Systems, File System)
 * [MLFQ-CPU-Scheduling](https://github.com/Makiato1999/MLFQ-CPU-Scheduling) (Operating Systems, CPU Scheduling)
-* [Flea Market](https://github.com/Makiato1999/FleaMarket) (Backend, Django)
-* [Order Me Up-Online Restaurant Order System](https://github.com/Makiato1999/COMP3020-Group24) (Frontend, HCI)
+* [Flea Market](https://github.com/Makiato1999/FleaMarket) (MVC, Django, MySQL)
+* [Order Me Up-Online Restaurant Order System](https://github.com/Makiato1999/COMP3020-Group24) (Frontend, JQuery)
 
 ## ⚡ Technologies 
 - Programming Markup Languages: **Java,Python,C,JavaScript,NodeJS,HTML,CSS,R**
