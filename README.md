@@ -15,7 +15,7 @@ Hello, I'm Shawn from Nanjing, China. I have a strong passion for Software Engin
 * [exFAT-reader](https://github.com/Makiato1999/exFAT-reader) (Operating Systems, File System)
 * [MLFQ-CPU-Scheduling](https://github.com/Makiato1999/MLFQ-CPU-Scheduling) (Operating Systems, CPU Scheduling)
 * [Flea Market](https://github.com/Makiato1999/FleaMarket) (MVC, Django, MySQL)
-* [Order Me Up-Online Restaurant Order System](https://github.com/Makiato1999/COMP3020-Group24) (Frontend, JQuery)
+* [Order Me Up-Online Restaurant Order System](https://github.com/Makiato1999/COMP3020-Group24) (UX/UI, Frontend, JQuery)
 
 ## ⚡ Technologies 
 - Programming Markup Languages: **Java,Python,C,JavaScript,NodeJS,HTML,CSS,R**
