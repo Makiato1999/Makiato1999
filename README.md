@@ -5,11 +5,11 @@ Hello, I'm Shawn from Nanjing, China. I have a strong passion for Software Engin
 ## 💻 Projects
 * [AI Assistant & ChatBot]() I am working on this project...
 * [Student Enrollment Management System]() I am working on this project...
-* [Online Education Website](https://github.com/Makiato1999/Spring-Notes) (SpringBoot, MVC, SpringJPA, Hibernate, MySQL, Thymeleaf)
-* [Workout App on Campus](https://github.com/Makiato1999/MacRun-MicroService) (Microservice, SpringBoot, RabbitMQ, Maven, Eureka, SpringCloud Gateway, Docker)
-* [The Risk of Stroke Predictor](https://github.com/Makiato1999/StrokePredict-DataScience) (Data Science, Data Analysis, Machine Learning, Classification)
+* [Online Education Website](https://github.com/Makiato1999/Spring-Notes) (SpringBoot, SpringMVC, SpringSecurity, SpringJPA, MySQL, Thymeleaf)
+* [Workout App on Campus](https://github.com/Makiato1999/MacRun-MicroService) (Microservice, SpringBoot, RabbitMQ, Maven, SpringCloud, Docker)
+* [The Risk of Stroke Predictor](https://github.com/Makiato1999/StrokePredict-DataScience) (Data Science, Data Analysis, Machine Learning)
 * [Personal Todo List App](https://github.com/Makiato1999/Todo-List-Warehouse) (Bootstrap, EJS, Node.js, Express.js, MongoDB, Mongoose, Heroku) 
-* [Text Mining: Sentiment Analysis and Recommender System on Yelp Reviews](https://github.com/Makiato1999/COMP4710_Yelp) (Data Mining, Machine Learning, NLP)
+* [Text Mining: Sentiment Analysis on Yelp Reviews](https://github.com/Makiato1999/COMP4710_Yelp) (Data Mining, Machine Learning, NLP)
 * [ARS-Canadian Airline Reservation System](https://github.com/Makiato1999/ARS) (Android, Agile Dev)
 * [ESN-Echo State Network](https://github.com/Makiato1999/ESN-echo-state-network) (Machine Learning)
 * [exFAT-reader](https://github.com/Makiato1999/exFAT-reader) (Operating Systems, File System)
