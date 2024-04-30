@@ -1,6 +1,6 @@
 <h2> 🤖 Welcome</h2>
 
-Hello, I'm Shawn from Nanjing, China. I have a strong passion for Software Engineering, Data Science & Machine Learning, and Human-Computer Interation(HCI/HRI). Currently, I am in my MEng program in McMaster University. I am also seeking a Software Engineer co-op position for 2024 Summer in the Greater Toronto Area. I would be delighted to connect with any potential opportunities in the region. Please feel free to reach out to me.
+Hello, I'm Shawn from Nanjing, China. I have a strong passion for Software Engineering, Data Science & Machine Learning, and Human-Computer Interation(HCI/HRI). Currently, I am in my MEng program in McMaster University. I am also seeking a Software Engineer co-op position for 2024 Fall in Toronto and Shanghai. I would be delighted to connect with any potential opportunities in the region. Please feel free to reach out to me.
 
 ## 💻 Projects
 * [Online Education Website](https://github.com/Makiato1999/Spring-Notes) (SpringBoot, MVC, SpringJPA, Hibernate, MySQL, Thymeleaf)
