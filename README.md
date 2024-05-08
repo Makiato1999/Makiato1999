@@ -3,6 +3,7 @@
 Hello, I'm Shawn from Nanjing, China. I have a strong passion for Software Engineering, Data Science & Machine Learning, and Human-Computer Interation(HCI/HRI). Currently, I am a Graduate student in McMaster University. I am also seeking a Software Engineer co-op position for 2024 Fall in Toronto and Shanghai. I would be delighted to connect with any potential opportunities in the region. Please feel free to reach out to me.
 
 ## 💻 Projects
+* [SpringBoot middleware implementation: RPC Framework](https://github.com/Makiato1999/https://github.com/Makiato1999/RPC-Framework) I am working on this project...!
 * [AI Assistant & ChatBot](https://github.com/Makiato1999/ChatBot-api) (SpringBoot, DDD, OpenAI/ChatGPT, XXL_JOB, Docker)
 * [Student Enrollment Management System](https://github.com/Makiato1999/Spring-Notes) (SpringBoot, SpringMVC, SpringSecurity, SpringJPA, MySQL, Thymeleaf)
 * [Workout App on Campus](https://github.com/Makiato1999/MacRun-MicroService) (Microservice, SpringBoot, RabbitMQ, Maven, SpringCloud, Docker)
