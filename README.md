@@ -34,10 +34,10 @@ Hello, I'm Shawn from Nanjing, China. I have a strong passion for Software Engin
 ## :books: Notes
 - Udemy Course: [The Complete 2023 Web Development Bootcamp](https://github.com/Makiato1999/2023Web-Bootcamp-Notes)
 - Coursera Course: [Django for Everybody Specialization](https://github.com/Makiato1999/Backend-Django-Notes)
+- Udemy Course: [Spring, SpringBoot, JPA, Hibernate : Zero To Master](https://github.com/Makiato1999/Spring-Notes)
 
 ![Shawn's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Makiato1999&hide=["issues"]&show_icons=true)
 
 I am also working on:
-- Udemy Course: [Spring, SpringBoot, JPA, Hibernate : Zero To Master](https://github.com/Makiato1999/Spring-Notes)
 - Udemy Course: [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://github.com/Makiato1999/MERN-Notes)
 - [LeetCode](https://github.com/Makiato1999/LeetCode)
