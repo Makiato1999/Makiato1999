@@ -6,7 +6,7 @@ Hello, I'm Shawn from Nanjing, China. I have a strong passion for Software Engin
 * [SpringBoot middleware implementation: RPC Framework](https://github.com/Makiato1999/RPC-Framework) I am working on this project...!
 * [AI Assistant & ChatBot](https://github.com/Makiato1999/ChatBot-api) (SpringBoot, DDD, OpenAI/ChatGPT, XXL_JOB, Docker)
 * [Student Education Management System](https://github.com/Makiato1999/EduManageSystem) (SpringBoot, SpringMVC, SpringSecurity, SpringJPA, MySQL, Thymeleaf)
-* [Workout App on Campus](https://github.com/Makiato1999/MacRun-MicroService) (Microservice, SpringBoot, RabbitMQ, Maven, SpringCloud, Docker)
+* [Workout App on Campus](https://github.com/Makiato1999/MacRun-MicroService) (Microservice, SpringBoot, RESTful API, RabbitMQ, SpringCloud, Docker)
 * [The Risk of Stroke Predictor](https://github.com/Makiato1999/StrokePredict-DataScience) (Data Science, Data Analysis, Machine Learning)
 * [Personal Todo List App](https://github.com/Makiato1999/Todo-List-Warehouse) (Bootstrap, EJS, Node.js, Express.js, MongoDB, Mongoose, Heroku) 
 * [Text Mining: Sentiment Analysis on Yelp Reviews](https://github.com/Makiato1999/COMP4710_Yelp) (Data Mining, Machine Learning, NLP)
