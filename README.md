@@ -18,13 +18,13 @@ Hello, I'm Shawn from Nanjing, China. I have a strong passion for Software Engin
 * [Order Me Up-Online Restaurant Order System](https://github.com/Makiato1999/COMP3020-Group24) (UX/UI, Frontend, JQuery)
 
 ## ⚡ Technologies 
-- Programming Markup Languages: **Java,Python,C,JavaScript,NodeJS,HTML,CSS,R**
+- Programming Markup Languages: **Java,Python,C,JavaScript/TypeScript,HTML,CSS**
 - [![My Skills](https://skillicons.dev/icons?i=java,py,c,js,nodejs,html,css,r)](https://skillicons.dev)
-- Libraries/Frameworks: **SpringMVC,SpringBoot,SpringCloud,RabbitMQ,Express.js,Django,jQuery,Bootstrap,React**
+- Libraries/Frameworks: **SpringMVC,SpringBoot,SpringCloud,AngularJS,React**
 - [![My Skills](https://skillicons.dev/icons?i=spring,rabbitmq,nodejs,express,django,jquery,bootstrap,react)](https://skillicons.dev)
 - Query Languages & Databases: **MySQL,MongoDB,ElasticSearch**
 - [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,elasticsearch)](https://skillicons.dev)
-- DevOps: **Maven,Docker,AWS,Heroku,Git,Testing,Logstash,Kibana**
+- DevOps: **Maven,Docker,AWS,Heroku,Git,Logstash,Kibana**
 - [![My Skills](https://skillicons.dev/icons?i=maven,docker,aws,heroku,git)](https://skillicons.dev)
 - Machine Learning: **Python,NumPy,pandas,turicreate,scikit-learn,NLTK,seaborn,Matplotlib**
 - Development tools: **IntelliJ IDEA,Visual Studio Code,Jupyter Lab,Android Studio,PyCharm,Vim**
@@ -32,9 +32,11 @@ Hello, I'm Shawn from Nanjing, China. I have a strong passion for Software Engin
 - Solving Leetcode: **Java**
 
 ## :books: Notes
+- Udemy Course: [Java Multithreading, Concurrency & Performance Optimization
+](https://github.com/Makiato1999/Java-MultiThreading)
+- Udemy Course: [Spring, SpringBoot, JPA, Hibernate : Zero To Master](https://github.com/Makiato1999/Spring-Notes)
 - Udemy Course: [The Complete 2023 Web Development Bootcamp](https://github.com/Makiato1999/2023Web-Bootcamp-Notes)
 - Coursera Course: [Django for Everybody Specialization](https://github.com/Makiato1999/Backend-Django-Notes)
-- Udemy Course: [Spring, SpringBoot, JPA, Hibernate : Zero To Master](https://github.com/Makiato1999/Spring-Notes)
 
 ![Shawn's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Makiato1999&hide=["issues"]&show_icons=true)
 
