@@ -1,6 +1,6 @@
 <h2> 🤖 Welcome</h2>
 
-Hello, I'm Shawn from Nanjing, China. I have a strong passion for Software Engineering and Distributed System. Currently, I am a Graduate student in McMaster University. I am also seeking a Software Engineer co-op position for 2025 Summer in Toronto and Shanghai. I would be delighted to connect with any potential opportunities in the region. Please feel free to reach out to me.
+Hello, I'm Shawn, a Computer Science graduate student at McMaster University. I have two internships as a Software Engineer, where I participated in the development of ERP systems, e-commerce systems, modernization of legacy systems, and more. I am currently seeking a Software Engineer co-op position for Summer 2025 in Toronto or Shanghai. I would be delighted to connect with any potential opportunities in these regions. Please feel free to reach out to me.
 
 ## 💻 Projects
 * [SpringBoot middleware implementation: RPC Framework](https://github.com/Makiato1999/RPC-Framework) I am working on this project...!
