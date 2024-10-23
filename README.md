@@ -4,7 +4,7 @@ Hello, I'm Shawn, a Software Engineering graduate student at McMaster University
 
 ## 💻 Projects
 * [SpringBoot middleware implementation: RPC Framework](https://github.com/Makiato1999/RPC-Framework) I am working on this project...!
-* [GitHub Issues AI Assistant](https://github.com/Makiato1999/ChatBot-api) (SpringBoot, DDD, OpenAI/ChatGPT, XXL_JOB, Docker)
+* [GitHub Issues Q&A AI Assistant](https://github.com/Makiato1999/ChatBot-api) (SpringBoot, DDD, OpenAI/ChatGPT, XXL_JOB, Docker)
 * [Student Education Management System](https://github.com/Makiato1999/EduManageSystem) (SpringBoot, SpringMVC, SpringSecurity, SpringJPA, MySQL, Thymeleaf)
 * [Workout App on Campus](https://github.com/Makiato1999/MacRun-MicroService) (Microservice, SpringBoot, RESTful API, RabbitMQ, SpringCloud, Docker)
 * [The Risk of Stroke Predictor](https://github.com/Makiato1999/StrokePredict-DataScience) (Data Science, Data Analysis, Machine Learning)
