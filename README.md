@@ -18,17 +18,15 @@ Hello, I'm Shawn from Nanjing, China. I have a strong passion for Software Engin
 * [Order Me Up-Online Restaurant Order System](https://github.com/Makiato1999/COMP3020-Group24) (UX/UI, Frontend, JQuery)
 
 ## ⚡ Technologies 
-- Programming Markup Languages: **Java,Python,C,JavaScript/TypeScript,HTML,CSS**
-- [![My Skills](https://skillicons.dev/icons?i=java,py,c,js,nodejs,html,css,r)](https://skillicons.dev)
-- Libraries/Frameworks: **SpringMVC,SpringBoot,SpringCloud,AngularJS,React**
-- [![My Skills](https://skillicons.dev/icons?i=spring,rabbitmq,nodejs,express,django,jquery,bootstrap,react)](https://skillicons.dev)
-- Query Languages & Databases: **MySQL,MongoDB,ElasticSearch**
+- Front-End: **TypeScript,AngularJS,JavaScript,React,Bootstrap,HTML,CSS**
+- [![My Skills](https://skillicons.dev/icons?i=ts,angular,js,react,bootstrap,html,css)](https://skillicons.dev)
+- Back-End: **Java,Spring,NodeJS,ExpressJS,Python,Django,Postman**
+- [![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,py,django,postman)](https://skillicons.dev)
+- DataBase: **MySQL,MongoDB,ElasticSearch**
 - [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,elasticsearch)](https://skillicons.dev)
-- DevOps: **Maven,Docker,AWS,Heroku,Git,Logstash,Kibana**
-- [![My Skills](https://skillicons.dev/icons?i=maven,docker,aws,heroku,git)](https://skillicons.dev)
+- DevOps: **Azure,AWS,Heroku,Git,Docker**
+- [![My Skills](https://skillicons.dev/icons?i=azure,aws,heroku,git,docker)](https://skillicons.dev)
 - Machine Learning: **Python,NumPy,pandas,turicreate,scikit-learn,NLTK,seaborn,Matplotlib**
-- Development tools: **IntelliJ IDEA,Visual Studio Code,Jupyter Lab,Android Studio,PyCharm,Vim**
-- [![My Skills](https://skillicons.dev/icons?i=idea,vscode,androidstudio,vim)](https://skillicons.dev)
 - Solving Leetcode: **Java**
 
 ## :books: Notes
