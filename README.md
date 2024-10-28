@@ -29,15 +29,4 @@ Hello, I'm Shawn, a Software Engineering graduate student at McMaster University
 - Machine Learning: **Python,NumPy,pandas,turicreate,scikit-learn,NLTK,seaborn,Matplotlib**
 - Solving Leetcode: **Java**
 
-## :books: Notes
-- Udemy Course: [Java Multithreading, Concurrency & Performance Optimization
-](https://github.com/Makiato1999/Java-MultiThreading)
-- Udemy Course: [Spring, SpringBoot, JPA, Hibernate : Zero To Master](https://github.com/Makiato1999/Spring-Notes)
-- Udemy Course: [The Complete 2023 Web Development Bootcamp](https://github.com/Makiato1999/2023Web-Bootcamp-Notes)
-- Coursera Course: [Django for Everybody Specialization](https://github.com/Makiato1999/Backend-Django-Notes)
-
 ![Shawn's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Makiato1999&hide=["issues"]&show_icons=true)
-
-I am also working on:
-- Udemy Course: [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://github.com/Makiato1999/MERN-Notes)
-- [LeetCode](https://github.com/Makiato1999/LeetCode)
