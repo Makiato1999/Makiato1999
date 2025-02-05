@@ -3,7 +3,7 @@
 Hello, I'm Shawn, a Software Engineering graduate student at McMaster University with one year of experience through two Software Engineer internships. I am currently seeking a Software Engineer Intern position for Summer 2025 in Toronto or Shanghai. I would be delighted to connect with any potential opportunities in these regions. Please feel free to reach out to me.
 
 ## 💻 Projects
-* [PayPlus: Payment Platform](https://github.com/Makiato1999/PayPlus) (SpringBoot, MVC, DDD)
+* [PayPlus: Payment Platform](https://github.com/Makiato1999/PayPlus) (SpringBoot, MyBatis, MySQL, Docker, MVC, DDD)
 * [Spring Starter: Dynamic ThreadPool](https://github.com/Makiato1999/Dynamic-ThreadPool) (SpringBoot, DDD, Redis, Docker)
 * [GitHub Issues Q&A AI Assistant](https://github.com/Makiato1999/ChatBot-api) (SpringBoot, DDD, OpenAI/ChatGPT, Docker)
 * [Student Education Management System](https://github.com/Makiato1999/EduManageSystem) (SpringBoot, SpringJPA, MySQL, Thymeleaf)
