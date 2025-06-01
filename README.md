@@ -3,7 +3,7 @@
 Hello, I'm Shawn, a Computing and Software Engineering graduate student at McMaster University with one year of experience through two Software Engineer internships. I am currently seeking a Software Engineer new grad position in Toronto and Shanghai. I would be delighted to connect with any potential opportunities in these regions. Please feel free to reach out to me.
 
 ## 💻 Projects
-* [GroupBuy: Platform for group-based purchases and team deals](https://github.com/Makiato1999/GroupBuy) (SpringBoot, MyBatis, MySQL, Docker, MVC, DDD)
+* [GroupBuy: Platform for group-based purchases and team deals](https://github.com/Makiato1999/GroupBuy) (Microservice, DDD, SpringBoot, MyBatis, MySQL, Docker)
 * [PayPlus: Payment Platform](https://github.com/Makiato1999/PayPlus) (SpringBoot, MyBatis, MySQL, Docker, MVC, DDD)
 * [Spring Starter: Dynamic ThreadPool](https://github.com/Makiato1999/Dynamic-ThreadPool) (SpringBoot, DDD, Redis, Docker)
 * [GitHub Issues Q&A AI Assistant](https://github.com/Makiato1999/ChatBot-api) (SpringBoot, DDD, OpenAI/ChatGPT, Docker)
