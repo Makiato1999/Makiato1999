@@ -4,6 +4,7 @@ Hello, I'm Shawn, a Computing and Software Engineering graduate student at McMas
 
 ## 💻 Projects
 * [GroupBuy: Platform for group-based purchases and team deals](https://github.com/Makiato1999/GroupBuy) (Microservice, DDD, SpringBoot, MyBatis, MySQL, Docker)
+* [CouponCenter: Marking Platform for discount and coupon](https://github.com/Makiato1999/CouponCenter) (Microservice, SpringBoot, Nacos, OpenFeign)
 * [PayPlus: Payment Platform](https://github.com/Makiato1999/PayPlus) (SpringBoot, MyBatis, MySQL, Docker, MVC, DDD)
 * [Spring Starter: Dynamic ThreadPool](https://github.com/Makiato1999/Dynamic-ThreadPool) (SpringBoot, DDD, Redis, Docker)
 * [GitHub Issues Q&A AI Assistant](https://github.com/Makiato1999/ChatBot-api) (SpringBoot, DDD, OpenAI/ChatGPT, Docker)
