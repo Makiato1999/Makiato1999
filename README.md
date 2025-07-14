@@ -30,48 +30,38 @@ Currently seeking a **Software Engineer (new grad)** position in **Toronto** or 
 <details>
 <summary><b>💡 Click to Expand Full Project List</b></summary>
 
-- [**CouponCenter**](https://github.com/Makiato1999/CouponCenter): Discount & Coupon Marking Platform <br> <sup><sub>Microservice · SpringBoot · SpringCloud · Nacos · OpenFeign</sub></sup>
-- [**PayPlus**](https://github.com/Makiato1999/PayPlus): Payment Platform <br> <sup><sub>SpringBoot · MyBatis · MySQL · Docker · MVC · DDD</sub></sup>
-- [**Dynamic ThreadPool**](https://github.com/Makiato1999/Dynamic-ThreadPool): Spring Starter <br> <sup><sub>SpringBoot · DDD · Redis · Docker</sub></sup>
-- [**ChatBot-API**](https://github.com/Makiato1999/ChatBot-api): GitHub Issues Q&A AI Assistant <br> <sup><sub>SpringBoot · DDD · OpenAI/ChatGPT · Docker</sub></sup>
-- [**EduManageSystem**](https://github.com/Makiato1999/EduManageSystem): Student Education Management <br> <sup><sub>SpringBoot · SpringJPA · MySQL · Thymeleaf</sub></sup>
-- [**MacRun-MicroService**](https://github.com/Makiato1999/MacRun-MicroService): Workout App on Campus <br> <sup><sub>Microservice · SpringBoot · RabbitMQ · Docker</sub></sup>
-- [**StrokePredict-DataScience**](https://github.com/Makiato1999/StrokePredict-DataScience): Risk of Stroke Predictor <br> <sup><sub>Data Science · Machine Learning</sub></sup>
-- [**Todo-List-Warehouse**](https://github.com/Makiato1999/Todo-List-Warehouse): Personal Todo List App <br> <sup><sub>Bootstrap · Node.js · Express.js · MongoDB · Mongoose · Heroku</sub></sup>
-- [**COMP4710_Yelp**](https://github.com/Makiato1999/COMP4710_Yelp): Sentiment Analysis on Yelp Reviews <br> <sup><sub>Data Mining · Machine Learning</sub></sup>
-- [**ARS**](https://github.com/Makiato1999/ARS): Canadian Airline Reservation System <br> <sup><sub>Android</sub></sup>
-- [**ESN-echo-state-network**](https://github.com/Makiato1999/ESN-echo-state-network): Echo State Network <br> <sup><sub>Machine Learning</sub></sup>
-- [**exFAT-reader**](https://github.com/Makiato1999/exFAT-reader): exFAT File System Reader <br> <sup><sub>Operating Systems · File System</sub></sup>
-- [**MLFQ-CPU-Scheduling**](https://github.com/Makiato1999/MLFQ-CPU-Scheduling): Multi-level Feedback Queue Scheduling <br> <sup><sub>Operating Systems · CPU Scheduling</sub></sup>
-- [**FleaMarket**](https://github.com/Makiato1999/FleaMarket): Flea Market Platform <br> <sup><sub>MVC · Django · MySQL</sub></sup>
-- [**Order Me Up**](https://github.com/Makiato1999/COMP3020-Group24): Online Restaurant Order System <br> <sup><sub>UX/UI · Frontend · JQuery</sub></sup>
+- [**CouponCenter**](https://github.com/Makiato1999/CouponCenter): Discount & Coupon Marking Platform  
+  <sub>Microservice · SpringBoot · SpringCloud · Nacos · OpenFeign</sub>
+- [**PayPlus**](https://github.com/Makiato1999/PayPlus): Payment Platform  
+  <sub>SpringBoot · MyBatis · MySQL · Docker · MVC · DDD</sub>
+- [**Dynamic ThreadPool**](https://github.com/Makiato1999/Dynamic-ThreadPool): Spring Starter  
+  <sub>SpringBoot · DDD · Redis · Docker</sub>
+- [**ChatBot-API**](https://github.com/Makiato1999/ChatBot-api): GitHub Issues Q&A AI Assistant  
+  <sub>SpringBoot · DDD · OpenAI/ChatGPT · Docker</sub>
+- [**EduManageSystem**](https://github.com/Makiato1999/EduManageSystem): Student Education Management  
+  <sub>SpringBoot · SpringJPA · MySQL · Thymeleaf</sub>
+- [**MacRun-MicroService**](https://github.com/Makiato1999/MacRun-MicroService): Workout App on Campus  
+  <sub>Microservice · SpringBoot · RabbitMQ · Docker</sub>
+- [**StrokePredict-DataScience**](https://github.com/Makiato1999/StrokePredict-DataScience): Risk of Stroke Predictor  
+  <sub>Data Science · Machine Learning</sub>
+- [**Todo-List-Warehouse**](https://github.com/Makiato1999/Todo-List-Warehouse): Personal Todo List App  
+  <sub>Bootstrap · Node.js · Express.js · MongoDB · Mongoose · Heroku</sub>
+- [**COMP4710_Yelp**](https://github.com/Makiato1999/COMP4710_Yelp): Sentiment Analysis on Yelp Reviews  
+  <sub>Data Mining · Machine Learning</sub>
+- [**ARS**](https://github.com/Makiato1999/ARS): Canadian Airline Reservation System  
+  <sub>Android</sub>
+- [**ESN-echo-state-network**](https://github.com/Makiato1999/ESN-echo-state-network): Echo State Network  
+  <sub>Machine Learning</sub>
+- [**exFAT-reader**](https://github.com/Makiato1999/exFAT-reader): exFAT File System Reader  
+  <sub>Operating Systems · File System</sub>
+- [**MLFQ-CPU-Scheduling**](https://github.com/Makiato1999/MLFQ-CPU-Scheduling): Multi-level Feedback Queue Scheduling  
+  <sub>Operating Systems · CPU Scheduling</sub>
+- [**FleaMarket**](https://github.com/Makiato1999/FleaMarket): Flea Market Platform  
+  <sub>MVC · Django · MySQL</sub>
+- [**Order Me Up**](https://github.com/Makiato1999/COMP3020-Group24): Online Restaurant Order System  
+  <sub>UX/UI · Frontend · JQuery</sub>
+
 </details>
-
----
-
-### 🛠️ Technologies & Tools
-
-**Front-End:**  
-[![My Skills](https://skillicons.dev/icons?i=ts,angular,js,react,bootstrap,html,css)](https://skillicons.dev)
-
-**Back-End:**  
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,py,django,postman)](https://skillicons.dev)
-
-**Database:**  
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,elasticsearch)](https://skillicons.dev)
-
-**DevOps & Cloud:**  
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,heroku,git,docker)](https://skillicons.dev)
-
-**Machine Learning/Data Science:**  
-<img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/NumPy-orange?logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-yellow?logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-blue?logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-blue?logo=matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-green?logo=seaborn&logoColor=white" />
-<img src="https://img.shields.io/badge/turicreate-grey" />
-<img src="https://img.shields.io/badge/NLTK-green?logo=nltk&logoColor=white" />
 
 ---
 
