@@ -1,7 +1,7 @@
 <h2 align="center">🤖 Welcome to Shawn's GitHub!</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=45&lines=Hi%2C+I'm+Shawn!;Software+Engineer+%7C+Graduate+Student+%7C+AI+%26+Backend+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=45&lines=Hi%2C+I'm+Shawn!+AI+Software+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
