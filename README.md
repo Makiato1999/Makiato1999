@@ -56,10 +56,6 @@ Currently seeking a **Software Engineer (new grad)** position in **Toronto** or 
   <sub>Operating Systems · File System</sub>
 - [**MLFQ-CPU-Scheduling**](https://github.com/Makiato1999/MLFQ-CPU-Scheduling): Multi-level Feedback Queue Scheduling  
   <sub>Operating Systems · CPU Scheduling</sub>
-- [**FleaMarket**](https://github.com/Makiato1999/FleaMarket): Flea Market Platform  
-  <sub>MVC · Django · MySQL</sub>
-- [**Order Me Up**](https://github.com/Makiato1999/COMP3020-Group24): Online Restaurant Order System  
-  <sub>UX/UI · Frontend · JQuery</sub>
 
 </details>
 
