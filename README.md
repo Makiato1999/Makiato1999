@@ -8,11 +8,11 @@
   <a href="https://github.com/Makiato1999">
     <img src="https://img.shields.io/github/followers/Makiato1999?label=Follow&style=social" alt="GitHub Followers" />
   </a>
-  <a href="mailto:xiaoran1999@outlook.com">
+  <a href="mailto:xiaoran.xie@outlook.com">
     <img src="https://img.shields.io/badge/Email-xiaoran1999%40outlook.com-blue?logo=gmail" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/xiaoran-makiato/">
-    <img src="https://img.shields.io/badge/LinkedIn-xiaoran--makiato-blue?logo=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/xiaoran-shawn-xie-3a305720a/">
+    <img src="https://img.shields.io/badge/LinkedIn-xiaoran-blue?logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
@@ -76,8 +76,8 @@ Currently seeking a **Software Engineer (new grad)** position in **Toronto** or 
 
 ### 🤝 Let's Connect!
 
-- 📧 **Email:** xiaoran1999@outlook.com  
-- 💼 **LinkedIn:** [xiaoran-makiato](https://www.linkedin.com/in/xiaoran-makiato/)
+- 📧 **Email:** xiaoran.xie@outlook.com  
+- 💼 **LinkedIn:** [xiaoran](https://www.linkedin.com/in/xiaoran-shawn-xie-3a305720a/)
 - 🌏 Open for opportunities in **Toronto** and **Shanghai**
 
 ---
