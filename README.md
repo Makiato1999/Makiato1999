@@ -1,4 +1,4 @@
-<h2 align="center">🤖 Welcome to Shawn's GitHub!</h2>
+<h2 align="center">🤖 Welcome to Makiato's GitHub!</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=45&lines=Hi%2C+I'm+Shawn!+AI+Software+Engineer" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 
 ### 👋 About Me
 
-Hi, I'm **Shawn**, a Computing and Software Engineering graduate student at McMaster University 🇨🇦, with **one year of experience** through two Software Engineer internships.  
+Hi, I'm **Makiato**, a Computing and Software Engineering graduate student at McMaster University 🇨🇦, with **one year of experience** through two Software Engineer internships.  
 Currently seeking a **Software Engineer (new grad)** position in **Toronto** or **Shanghai**—excited to connect and collaborate on innovative projects!
 
 ---
