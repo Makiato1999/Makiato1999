@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/followers/Makiato1999?label=Follow&style=social" alt="GitHub Followers" />
   </a>
   <a href="mailto:xiaoran.xie@outlook.com">
-    <img src="https://img.shields.io/badge/Email-xiaoran1999%40outlook.com-blue?logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-xiaoran.xie%40outlook.com-blue?logo=gmail" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/xiaoran-shawn-xie-3a305720a/">
     <img src="https://img.shields.io/badge/LinkedIn-xiaoran-blue?logo=linkedin" alt="LinkedIn" />
