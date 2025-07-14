@@ -30,5 +30,3 @@ Hello, I'm Shawn, a Computing and Software Engineering graduate student at McMas
 - [![My Skills](https://skillicons.dev/icons?i=azure,aws,heroku,git,docker)](https://skillicons.dev)
 - Machine Learning: **Python,NumPy,pandas,turicreate,scikit-learn,NLTK,seaborn,Matplotlib**
 - Solving Leetcode: **Java**
-
-![Shawn's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Makiato1999&hide=["issues"]&show_icons=true)
