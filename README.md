@@ -20,8 +20,7 @@
 
 ### 👋 About Me
 
-Hi, I'm **Makiato**, a Computing and Software Engineering graduate student at McMaster University 🇨🇦, with **one year of experience** through two Software Engineer internships.  
-Currently seeking a **Software Engineer (new grad)** position in **Toronto** or **Shanghai**—excited to connect and collaborate on innovative projects!
+Hi, I'm **Makiato**, a Computing and Software Engineering graduate student at McMaster University 🇨🇦, with **one year of experience** through two Software Engineer internships. Currently seeking a **Software Engineer (new grad)** position in **Toronto** or **Shanghai**—excited to connect and collaborate on innovative projects!
 
 ---
 
