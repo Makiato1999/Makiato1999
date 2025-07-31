@@ -1,7 +1,7 @@
 <h2 align="center">🤖 Welcome to Makiato's GitHub!</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=45&lines=Hi%2C+I'm+Makiato!+Aspiring+AI+Engineer!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=45&lines=Hi%2C+I'm+Makiato!+Aspiring+AI+Software+Engineer!" alt="Typing SVG" />
 </p>
 
 <p align="center">
