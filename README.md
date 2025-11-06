@@ -29,7 +29,7 @@ Hi, I'm **Makiato**, a Full-stack developer transitioning into ML systems engine
 <details>
 <summary><b>💡 Click to Expand Full Project List</b></summary>
 
-- [**HRI-EMO**](https://github.com/Makiato1999/HRI-EMO): Adaptive cross-modal fusion integrated with an emotion-level Transformer decoder
+- [**HRI-EMO**](https://github.com/Makiato1999/HRI-EMO): Adaptive cross-modal fusion integrated with an emotion-level Transformer decoder  
   <sub>Deep Learning · Multimodal · LLM · Transformer</sub>
 - [**CouponCenter**](https://github.com/Makiato1999/CouponCenter): Discount & Coupon Marking Platform  
   <sub>Microservice · SpringBoot · SpringCloud · Nacos · OpenFeign</sub>
