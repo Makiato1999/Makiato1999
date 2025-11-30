@@ -20,7 +20,7 @@
 
 ### 👋 About Me
 
-Hi, I'm **Makiato**, a Full-stack developer transitioning into ML systems engineering, with experience in distributed backend architecture and multimodal model research. Currently seeking a **Software Engineer** | **Machine Learning Engineer** position in **Toronto** or **Shanghai**—excited to connect and collaborate on innovative projects!
+Hi, I'm **Makiato**, a Full-stack developer transitioning into ML systems engineering, with experience in distributed backend architecture and multimodal model deep learning research. Currently seeking a **Software Engineer** | **Machine Learning Engineer** position in **Toronto** or **Shanghai**—excited to connect and collaborate on innovative projects!
 
 ---
 
