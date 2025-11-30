@@ -62,15 +62,6 @@ Hi, I'm **Makiato**, a Full-stack developer transitioning into ML systems engine
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Makiato1999&show_icons=true&hide=issues&theme=default" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makiato1999&layout=compact&hide=html&theme=default" height="170" />
-</p>
-
----
-
 ### 🤝 Let's Connect!
 
 - 📧 **Email:** xiaoran.xie@outlook.com  
@@ -82,7 +73,7 @@ Hi, I'm **Makiato**, a Full-stack developer transitioning into ML systems engine
 <details>
 <summary>📚 <b>About This README</b></summary>
 <sup>
-Last update: 2024-07-12  
+Last update: 2025-11-20  
 If you like my work, feel free to ⭐ my projects or connect with me!
 </sup>
 </details>
