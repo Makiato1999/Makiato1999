@@ -31,6 +31,8 @@ Hi, I'm **Makiato**, a Full-stack developer transitioning into ML systems engine
 
 - [**HRI-EMO**](https://github.com/Makiato1999/HRI-EMO): Adaptive cross-modal fusion integrated with an emotion-level Transformer decoder  
   <sub>Deep Learning · Multimodal · LLM · Transformer</sub>
+- [**ECG-Detector**](https://github.com/Makiato1999/ECG-Detector): Convolutional Autoencoder (CNN-AE) for Anomaly Detection
+  <sub>Deep Learning · CNN · Autoencoder </sub>
 - [**CouponCenter**](https://github.com/Makiato1999/CouponCenter): Discount & Coupon Marking Platform  
   <sub>Microservice · SpringBoot · SpringCloud · Nacos · OpenFeign</sub>
 - [**PayPlus**](https://github.com/Makiato1999/PayPlus): Payment Platform  
