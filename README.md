@@ -41,18 +41,10 @@ Hi, I'm **Makiato**, a Full-stack developer transitioning into ML systems engine
   <sub>SpringBoot · DDD · Redis · Docker</sub>
 - [**ChatBot-API**](https://github.com/Makiato1999/ChatBot-api): GitHub Issues Q&A AI Assistant  
   <sub>SpringBoot · DDD · OpenAI/ChatGPT · Docker</sub>
-- [**EduManageSystem**](https://github.com/Makiato1999/EduManageSystem): Student Education Management  
-  <sub>SpringBoot · SpringJPA · MySQL · Thymeleaf</sub>
 - [**MacRun-MicroService**](https://github.com/Makiato1999/MacRun-MicroService): Workout App on Campus  
   <sub>Microservice · SpringBoot · RabbitMQ · Docker</sub>
-- [**StrokePredict-DataScience**](https://github.com/Makiato1999/StrokePredict-DataScience): Risk of Stroke Predictor  
-  <sub>Data Science · Machine Learning</sub>
-- [**Todo-List-Warehouse**](https://github.com/Makiato1999/Todo-List-Warehouse): Personal Todo List App  
-  <sub>Bootstrap · Node.js · Express.js · MongoDB · Mongoose · Heroku</sub>
 - [**COMP4710_Yelp**](https://github.com/Makiato1999/COMP4710_Yelp): Sentiment Analysis on Yelp Reviews  
   <sub>Data Mining · Machine Learning</sub>
-- [**ARS**](https://github.com/Makiato1999/ARS): Canadian Airline Reservation System  
-  <sub>Android</sub>
 - [**ESN-echo-state-network**](https://github.com/Makiato1999/ESN-echo-state-network): Echo State Network  
   <sub>Machine Learning</sub>
 - [**exFAT-reader**](https://github.com/Makiato1999/exFAT-reader): exFAT File System Reader  
