@@ -20,7 +20,7 @@
 
 ### 👋 About Me
 
-Hi, I'm **Makiato**, a Full-stack developer transitioning into ML systems engineering, with experience in distributed backend architecture and deep learning research. Currently seeking a **Software Engineer** | **Machine Learning Engineer** position in **Toronto** or **Shanghai**—excited to connect and collaborate on innovative projects!
+Hi, I'm **Makiato**, I come from a backend and microservices engineering background, with a strong focus on service orchestration, traffic routing, observability, and system reliability. Recently, I’ve been deepening my skills in C++ and CUDA to build practical, end-to-end inference performance optimization pipelines for AI platform and serving systems. Currently seeking a **Software Engineer** | **Machine Learning Engineer** position in **Toronto** or **Shanghai**—excited to connect and collaborate on innovative projects!
 
 ---
 
